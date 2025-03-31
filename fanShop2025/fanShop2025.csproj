@@ -15,4 +15,16 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.11" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\472285718_1142842221180953_8188899434488618898_n-removebg-preview.png" />
+    <None Include="wwwroot\Images\584a9b3bb080d7616d298777.png" />
+    <None Include="wwwroot\Images\GettyImages-2181233719-removebg-preview %282%29.png" />
+    <None Include="wwwroot\Images\kisspng-pfc-levski-sofia-pfc-ludogorets-razgrad-pfc-cska-s-old-5b1100aa2e0093.9534585415278409381885.png" />
+    <None Include="wwwroot\Images\red-and-blue-fire-vjz5bm9301cwwmpm-overlay-overlay.jpg" />
+  </ItemGroup>
+
 </Project>
